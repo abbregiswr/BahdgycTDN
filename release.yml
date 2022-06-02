@@ -7,9 +7,6 @@ changelog:
       - passed first triage
       - passed secondary triage
   categories:
-    - title: Framework
-      labels:
-        - framework
     - title: Tooling
       labels:
         - tool
